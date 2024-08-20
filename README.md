@@ -1,7 +1,3 @@
-# Global_Car_Sales_Analysis
-Here's a README description you can use for your GitHub repository:
-
----
 
 # Car Sales Interactive Dashboard
 
@@ -32,6 +28,6 @@ To view and interact with the dashboard:
 3. Explore the various visualizations and interact with the filters to customize the data view.
 
 ## Dataset
-
+Source: Kaggle
 The dataset used in this dashboard includes sales records from 2022 and 2023, sourced from reputable car dealerships and manufacturers. It has been cleaned and processed to ensure accuracy and relevance for analysis.
 
